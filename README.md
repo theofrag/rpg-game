@@ -1,6 +1,6 @@
 #RPG COMMAND LINE GAME
 
- Υπαρχει MAKEFILE. Στον φακελο programs γινεται compile τρεχοντας "make".
+ Υπαρχει MAKEFILE. στο φακελο programs.Το compile γίνεται απο τον φάκελο programs τρεχοντας "make".
 
 
 
